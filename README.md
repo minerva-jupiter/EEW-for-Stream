@@ -15,3 +15,7 @@ stateDiagram-v2
   main --> Warner: EEW data
   Warner --> OBS: scripts
 ```
+
+## Notes
+### EEW API
+- https://www.p2pquake.net/develop/json_api_v2/#/
